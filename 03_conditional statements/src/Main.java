@@ -8,7 +8,7 @@ public class Main {
 //
 //
 ////        logical operators they are used to compare two conditions
-//
+// 
 //        int x = 5, y = 10, z = 15;
 //        System.out.println(x < y || x > z);
 //
@@ -22,7 +22,7 @@ public class Main {
 //        } else {
 //            System.out.println("negative");
 //
-//            multiple if else conditions
+//            multiple if else conditionsss
 //        }
 
 //        ONE PRACTICE QUESTION
