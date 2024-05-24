@@ -1,4 +1,6 @@
 public class Main {
+
+
     static int logic(int x, int y) {
         int z;
         if (x > y) {
@@ -8,6 +10,8 @@ public class Main {
         }
         return z;
         }
+
+
         public static void main(String[]args){
             int a = 5, b = 7, c;
            c = logic(a , b);
