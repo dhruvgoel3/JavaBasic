@@ -23,6 +23,7 @@ public class Main {
 //        ___________SEARCHING AN ELEMENT_________
 
 
+// thatS  ALL IN THIS LECTURE
 
 
 
