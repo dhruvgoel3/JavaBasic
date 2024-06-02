@@ -44,3 +44,4 @@ s.m3 = 90;
 
     }
 }
+// in this way we can write classes in java
